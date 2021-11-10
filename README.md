@@ -1,4 +1,4 @@
-# Tax-Calculation-Colorado-Woocommerce-
+# Tax Calculation Colorado Woocommerce
 Woocommerce Plugin to determine Item taxability and rates based on location. 
 
 
