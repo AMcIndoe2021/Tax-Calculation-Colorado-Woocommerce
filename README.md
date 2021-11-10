@@ -9,7 +9,7 @@ Woocommerce Plugin to determine Item taxability and rates based on location.
 * Navigate to the plugins page
 * Click "Add New'
 * Click "Upload Plugin"
-* Select the .zip file
+* Select the ttr-colorado-woocommerce-plugin.zip file
 
 <h2>Setup</h2>
 
